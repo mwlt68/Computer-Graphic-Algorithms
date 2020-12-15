@@ -1,5 +1,7 @@
 # Computer-Graphic-Algorithms
 This repo for understand how can I work  with computer graphic. There are a lots of algorithm.
+You can watch my you tube video for understand how this project work.
+https://youtu.be/8Ahxtv73bPE
 
 # Bézier Curves
 Bézier curves are used a lot in computer graphics, often to produce smooth curves, and yet they are a very simple tool. If you have ever used Photoshop you might have stumbled upon that tool called “Anchor” where you can put anchor points and draw some curves with them… Yep, these are Bézier curves. Or if you have used vector-based graphic, SVG, these too use Bézier curves. Please visit below link for how it works.
